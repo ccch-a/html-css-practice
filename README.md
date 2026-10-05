@@ -4,7 +4,7 @@
 
 ## Что внутри
 - day-1: первая страница
-- resume/: страница-резюме (HTML, затем CSS)
+- resume: страница-резюме (HTML, затем CSS)
 
 ## Живая версия
 https://ccch-a.github.io/html-css-practice/
